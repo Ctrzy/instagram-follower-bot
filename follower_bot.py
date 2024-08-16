@@ -6,12 +6,12 @@ import schedule # To schedule bot to run specific times
 import time # To add delays
 
 # Insert your Instagram username, as well as password below
-username = "your_username_here"
-password = "your_password_here"
+username = "Zayluvzlol"
+password = "Imjsusinganaltlol"
 
 # Function to handle all the actions the bot will take
 def bot():
-    session = InstaPy(username=username, password=password, headless_browser=False)
+    session = InstaPy(username=zayluvzlol, password=Imjsusinganaltlol, headless_browser=False)
     session.login() # Creating and logging into session
 
     # Searched for a long time trying to figure out what smart_run does.
